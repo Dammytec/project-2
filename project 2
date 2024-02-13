@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Bites Menu</title>
+</head>
+<body>
+    <h1>Delicious Bites Menu</h1>
+    
+    <h2>Appetizers</h2>
+    <ul>
+        <li>Caprese Salad</li>
+            <ul>
+                <li>Tomatoes, mozzarella, basil, and balsamic glaze</li>
+            </ul>
+        <li>Bruschetta</li>
+            <ul>
+                <li>Grilled bread topped with diced tomatoes, garlic, and basil</li>
+            </ul>
+        <li>Spinach Artichoke Dip</li>
+            <ul>
+                <li>Creamy dip with spinach, artichokes, and melted cheese, served with tortilla chips</li>
+            </ul>
+    </ul>
+    
+    <h2>Main Courses</h2>
+    <ul>
+        <li>Grilled Salmon</li>
+            <ul>
+                <li>Atlantic salmon served with roasted vegetables</li>
+            </ul>
+        <li>Chicken Alfredo</li>
+            <ul>
+                <li>Grilled chicken breast served over fettuccine pasta with Alfredo sauce</li>
+            </ul>
+        <li>Vegetable Stir Fry</li>
+            <ul>
+                <li>Mixed vegetables stir-fried in a savory sauce, served with rice</li>
+            </ul>
+    </ul>
+    
+    <h2>Desserts</h2>
+    <ul>
+        <li>Chocolate Lava Cake</li>
+            <ul>
+                <li>Rich chocolate cake with a molten chocolate center, served with vanilla ice cream</li>
+            </ul>
+        <li>New York Cheesecake</li>
+            <ul>
+                <li>Creamy cheesecake with a graham cracker crust, topped with fruit compote</li>
+            </ul>
+        <li>Tiramisu</li>
+            <ul>
+                <li>Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese</li>
+            </ul>
+    </ul>
+
+    <!-- Contact Link -->
+    <p>For inquiries, please <a href="contact.html">contact us</a>.</p>
+</body>
+</html>
